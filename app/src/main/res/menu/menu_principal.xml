@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuInicio"
+        android:title="@string/menu_inicio"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuAmbito"
+        android:title="@string/menu_ambito"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuPlanificar"
+        android:title="@string/menu_planificar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuSesiones"
+        android:title="@string/menu_sesiones"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuResumen"
+        android:title="@string/menu_resumen"
+        app:showAsAction="never" />
+</menu>
